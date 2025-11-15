@@ -1,0 +1,21 @@
+True Class,Predicted Class,Count
+White-footed Mouse,Meadow_Vole,231
+Masked Shrew,White-footed Mouse,185
+Masked Shrew,Meadow_Vole,157
+Invertebrate,Eastern Gartersnake,129
+Woodland Jumping Mouse,White-footed Mouse,104
+Plains Gartersnake,Eastern Gartersnake,95
+Meadow_Vole,White-footed Mouse,95
+White-footed Mouse,Masked Shrew,92
+Eastern Gartersnake,Invertebrate,70
+Meadow_Vole,Masked Shrew,69
+Woodland Jumping Mouse,Meadow_Vole,63
+Common Five-linked skink,Eastern Gartersnake,61
+Eastern Cottontail,White-footed Mouse,57
+Eastern Massasauga,Eastern Gartersnake,57
+Woodland Jumping Mouse,Masked Shrew,56
+Eastern Gartersnake,Common Five-linked skink,54
+Eastern Gartersnake,Plains Gartersnake,47
+Song Sparrow,Eastern Gartersnake,39
+N. Short-tailed Shrew,White-footed Mouse,38
+Virginia Opossum,Eastern Cottontail,38
