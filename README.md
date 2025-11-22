@@ -7,25 +7,6 @@
 
 Official PyTorch implementation of **"YOLO-HARVEST: A Hybrid ViT Architecture with Locality-Enhanced Attention for Automated Wildlife Species Classification"**
 
----
-
-## 📋 Table of Contents
-- [Overview](#-overview)
-- [Key Features](#-key-features)
-- [Installation](#-installation)
-- [Dataset](#-dataset)
-- [Pretrained Models](#-pretrained-models)
-- [Quick Start](#-quick-start)
-- [Training](#-training)
-- [Evaluation](#-evaluation)
-- [Inference](#-inference)
-- [Model Architecture](#-model-architecture)
-- [Results](#-results)
-- [Citation](#-citation)
-- [License](#-license)
-- [Contact](#-contact)
-
----
 
 ## 🌟 Overview
 
